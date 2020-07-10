@@ -1,0 +1,10 @@
+.linkcontact {
+    position: relative;
+    z-index: 100;
+    
+  }
+
+
+  .row {
+    display: block !important;
+  }
